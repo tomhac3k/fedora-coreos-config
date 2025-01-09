@@ -16,6 +16,7 @@ include: manifests/fedora-coreos.yaml
 
 packages:
   - vim
+  - python3-dnf
   - tree
   - yum
   - dnf
