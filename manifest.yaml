@@ -13,3 +13,7 @@ repos:
   - fedora-updates
 
 include: manifests/fedora-coreos.yaml
+
+packages:
+  - vim
+  - cowsay
